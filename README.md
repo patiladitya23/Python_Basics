@@ -10,3 +10,13 @@ Class 2
 4. User input
 5. Type casting and type conversion
 6. Memory block
+
+Class 3
+1. Glimpse of Conditional Statment
+2. Operators
+     Logical
+     Equality
+     Comparison
+     Arithmetic
+     Bitwise
+     Operator for Sets and Dictionary
