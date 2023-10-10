@@ -18,5 +18,7 @@ Class 3
      Equality
      Comparison
      Arithmetic
-     Bitwise
-     Operator for Sets and Dictionary
+
+Class 4
+1. String Methods
+2. Control flow statements
