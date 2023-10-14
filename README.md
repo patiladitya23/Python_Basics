@@ -28,7 +28,12 @@ Class 5
     if elif else
     nested if else
     short hand (single line) if else [Not recommended]
-2. Loops in Python
-    for loop
-    while loop
+2. Loops 
+    1. while loop
+    2. for loop
+    3. loop control
+        -break
+        -continue
+        -pass
+    4. nested loop 
 
