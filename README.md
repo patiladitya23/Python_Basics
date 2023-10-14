@@ -1,9 +1,9 @@
 Python_Basics
 
-Class 1
+CLASS 1
 
 
-Class 2
+CLASS 2
 1. Variable Case Sensitivity
 2. Reserved words in Python
 3. Multi assignment of variables
@@ -11,7 +11,7 @@ Class 2
 5. Type casting and type conversion
 6. Memory block
 
-Class 3
+CLASS 3
 1. Glimpse of Conditional Statment
 2. Operators
      Logical
@@ -19,10 +19,10 @@ Class 3
      Comparison
      Arithmetic
 
-Class 4
+CLASS 4
 1. String Methods
 
-Class 5
+CLASS 5
 1. Control Flow Statements
     if else
     if elif else
@@ -35,5 +35,4 @@ Class 5
         -break
         -continue
         -pass
-    4. nested loop 
 
