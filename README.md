@@ -23,4 +23,12 @@ Class 4
 1. String Methods
 
 Class 5
-1. Control Flow
+1. Control Flow Statements
+    if else
+    if elif else
+    nested if else
+    short hand (single line) if else [Not recommended]
+2. Loops in Python
+    for loop
+    while loop
+
