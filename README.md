@@ -36,3 +36,4 @@ CLASS 5
         -continue
         -pass
 
+CLASS 6
