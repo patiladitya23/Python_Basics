@@ -40,3 +40,6 @@ CLASS 6
 1. List
 2. Tuples
 3. Set
+
+CLASS 7
+1. Functions
