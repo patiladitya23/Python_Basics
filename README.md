@@ -38,3 +38,5 @@ CLASS 5
 
 CLASS 6
 1. List
+2. Tuples
+3. Set
